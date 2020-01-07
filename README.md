@@ -11,6 +11,6 @@ This repository contains data central to the analysis reported by Walker et al. 
 The spatial resolution is ca. 500 meters and the coordinate reference system is the MODIS sinusoidal projection ([SR-ORG:6842](https://spatialreference.org/ref/sr-org/modis-sinusoidal/)). Grid cell values are stored as 16-bit signed integers with units of megagrams of aboveground carbon per hectare (Mg/ha). Areas outside the biogeographical limit of the Amazon are assigned to NoData (-32768).
 
 2. One vector layer containing the spatial distribution (ca. 2016) of Indigenous Territories (ITs), Protected Natural Areas (PNAs), IT/PNA Overlap, and Other Land categories within the biogeographic limit of the Amazon:
-+ `msk_anps_tis_all.*` is an ESRI (polygon) shapefile in which the "TIPO_UND" field indicates the land category (i.e., 1 = IT; 2 = PNA; 3 = IT/PNA Overlap; 4 = Other Land) and the "Pais" field indicates the three-letter ISO country code (e.g., "BOL" = Bolivia) of each polygon.
++ `msk_paises.gdb.tar.gz` is a compressed ESRI geodatabase containing a polygon feature class in which the "TIPO_UND" field indicates the land category (i.e., 1 = IT; 2 = PNA; 3 = IT/PNA Overlap; 4 = Other Land) and the "Pais" field indicates the three-letter ISO country code (e.g., "BOL" = Bolivia) of each polygon.
 
 Please cite this paper (i.e., Walker et al. 2020) when using any of these datasets for any purpose.
