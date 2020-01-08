@@ -13,4 +13,5 @@ The spatial resolution is ca. 500 meters and the coordinate reference system is 
 2. One vector layer containing the spatial distribution (ca. 2016) of Indigenous Territories (ITs), Protected Natural Areas (PNAs), IT/PNA Overlap, and Other Land categories within the biogeographic limit of the Amazon:
 + `msk_paises.gdb.tar.gz` is a compressed ESRI geodatabase containing a polygon feature class in which the "TIPO_UND" field indicates the land category (i.e., 1 = IT; 2 = PNA; 3 = IT/PNA Overlap; 4 = Other Land) and the "Pais" field indicates the three-letter ISO country code (e.g., "BOL" = Bolivia) of each polygon.
 
-Please cite this paper (i.e., Walker et al. 2020) when using any of these datasets for any purpose.
+This work is licensed under a  [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/). You may not use these data for commercial purposes; if you transform or build upon these data, you may not distribute the modified data. You must cite this paper (i.e., Walker et al. 2020) when using any of these datasets for any purpose.
+
