@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/199693162.svg)](https://zenodo.org/doi/10.5281/zenodo.10822438)
+
 # Amazon-Indigenous-Carbon
 
 **Walker et al. 2020. The Role of Forest Conversion, Degradation, and Disturbance in the Carbon Dynamics of Amazon Indigenous Territories and Protected Areas. _Proceedings of the National Academy of Sciences_.**
