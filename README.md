@@ -2,8 +2,6 @@
 
 # Amazon-Indigenous-Carbon
 
-**Walker et al. 2020. The Role of Forest Conversion, Degradation, and Disturbance in the Carbon Dynamics of Amazon Indigenous Territories and Protected Areas. _Proceedings of the National Academy of Sciences_.**
-
 This repository contains data central to the analysis reported by Walker et al. (2020) on the role of forest conversion, degradation, and disturbance in the carbon dynamics of Amazon indigenous territories and protected natural areas. These data include:
 
 1. Two raster layers of aboveground live dry woody carbon spanning the biogeographic limit of the Amazon:
@@ -17,3 +15,6 @@ The spatial resolution is ca. 500 meters and the coordinate reference system is 
 
 This work is licensed under a  [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/). You may not use these data for commercial purposes; if you transform or build upon these data, you may not distribute the modified data. You must cite this paper (i.e., Walker et al. 2020) when using any of these datasets for any purpose.
 
+## Data Source
+
+Walker, W.S., S.R. Gorelik, A. Baccini, J.L. Aragon-Osejo, C. Josse, C. Meyer, M.N. Macedo, C. Augusto, S. Rios, T. Katan, A.A. de Souza, S. Cuellar, A. Llanos, I. Zager, G.D. Mirabal, K.K. Solvik, M.K. Farina, P. Moutinho, and S. Schwartzman. 2020. **The role of forest conversion, degradation, and disturbance in the carbon dynamics of Amazon indigenous territories and protected areas.** _Proceedings of the National Academy of Sciences_, [doi:10.1073/pnas.1913321117](https://doi.org/10.1073/pnas.1913321117).
